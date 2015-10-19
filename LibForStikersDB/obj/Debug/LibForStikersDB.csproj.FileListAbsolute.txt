@@ -1,0 +1,41 @@
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\StikersDB.mdf
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\StikersDB_log.ldf
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll.config
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\EntityFramework.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\EntityFramework.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.csprojResolveAssemblyReference.cache
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\StikersDB.mdf
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\StikersDB_log.ldf
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll.config
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.pdb
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.xml
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.dll
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.pdb
+C:\Users\slava\Desktop\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\StikersDB.mdf
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\StikersDB_log.ldf
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll.config
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\LibForStikersDB.pdb
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.xml
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.dll
+C:\Users\Olga\Desktop\Stikers\LibForStikersDB\obj\Debug\LibForStikersDB.pdb

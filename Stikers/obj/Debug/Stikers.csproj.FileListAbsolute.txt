@@ -1,0 +1,114 @@
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\bin\Debug\Stikers.exe.config
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\App.g.cs
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.cache
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\bin\Debug\Stikers.exe
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\bin\Debug\Stikers.pdb
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.g.resources
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.Properties.Resources.resources
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.csproj.GenerateResource.Cache
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.exe
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.pdb
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowCloud.baml
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowCloud.g.cs
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowHeart.baml
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowHeart.g.cs
+c:\users\olga\documents\visual studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\obj\Debug\ResourceDictionaryButton.baml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\StikersDB.mdf
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\StikersDB_log.ldf
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\LibForStikersDB.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\EntityFramework.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\LibForStikersDB.pdb
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\EntityFramework.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowStandart.g.cs
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.lref
+C:\Users\Olga\Documents\Visual Studio 2013\Projects\Stikers\Stikers\obj\Debug\WindowStandart.baml
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\Stikers.exe.config
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.exe
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.pdb
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\StikersDB.mdf
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\StikersDB_log.ldf
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\Stikers.exe
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\Stikers.pdb
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.dll
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\LibForStikersDB.dll
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\LibForStikersDB.pdb
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.xml
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\slava\Desktop\Stikers\Stikers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.csprojResolveAssemblyReference.cache
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\ResourceDictionaryButton.baml
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowCloud.baml
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowHeart.baml
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowStandart.g.cs
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowCloud.g.cs
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowHeart.g.cs
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\App.g.cs
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.cache
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.lref
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\WindowStandart.baml
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.g.resources
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.Properties.Resources.resources
+C:\Users\slava\Desktop\Stikers\Stikers\obj\Debug\Stikers.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.csprojResolveAssemblyReference.cache
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\ResourceDictionaryButton.baml
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowStandart.g.cs
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowCloud.g.cs
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowHeart.g.cs
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\App.g.cs
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.cache
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers_MarkupCompile.lref
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\StikersDB.mdf
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\StikersDB_log.ldf
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Stikers.exe.config
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Stikers.exe
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Stikers.pdb
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\LibForStikersDB.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\LibForStikersDB.pdb
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowStandart.baml
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowCloud.baml
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\WindowHeart.baml
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.g.resources
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.Properties.Resources.resources
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.csproj.GenerateResource.Cache
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.exe
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\Stikers.pdb
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Composition.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Interactivity.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Composition.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Interactivity.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Olga\Desktop\Stikers\Stikers\obj\Debug\GeneratedInternalTypeHelper.g.cs

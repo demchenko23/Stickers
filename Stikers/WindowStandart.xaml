@@ -1,0 +1,112 @@
+﻿<Window x:Class="Stikers.WindowStandart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:viewModel="clr-namespace:Stikers.ViewModel"
+        Height="200" 
+        Width="250" 
+        AllowsTransparency="True"
+        WindowStyle="None" 
+        Background="Transparent"
+        Name="view">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="ResourceDictionaryButton.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Window.DataContext>
+        <viewModel:StikerViewModel/>
+    </Window.DataContext>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <Border Width="auto" 
+                Height="auto" 
+                BorderBrush="LimeGreen" 
+                BorderThickness="2"
+                CornerRadius="0,30,0,30"
+                MouseLeftButtonDown="Window_MouseLeftButtonDown"
+                Grid.ColumnSpan="3"
+                Grid.RowSpan="2">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="Honeydew"
+                                          Offset="0.0"/>
+                            <GradientStop Color="Beige" 
+                                          Offset="0.5"/>
+                        </GradientStopCollection>
+                    </GradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="45"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="45"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="30"/>
+                    <RowDefinition/>
+                    <RowDefinition Height="auto"/>
+                </Grid.RowDefinitions>
+                <Button Style="{StaticResource ButtonStyleStandart}"
+                        Command="{Binding CloseWindow}"
+                        CommandParameter="{Binding}"
+                        Grid.Row="0" 
+                        Grid.Column="2"  
+                        HorizontalAlignment="Center"
+                        VerticalAlignment="Center"
+                        Width="30"
+                        Height="30">
+                    <Image Source="/Resources/delete.png"/>
+                </Button>
+                <Button Style="{StaticResource ButtonStyleStandart}"
+                        Command="{Binding AddNewWindow}" 
+                        CommandParameter="{Binding}"
+                        Grid.Row="0"
+                        Grid.Column="0"
+                        HorizontalAlignment="Right"
+                        VerticalAlignment="Center"
+                        Height="25" 
+                        Width="25">
+                    <Image Source="/Resources/add.png"/>
+                </Button>
+                <ToolBar Grid.Row="0"
+                         Grid.Column="0"
+                         HorizontalAlignment="Left"
+                         VerticalAlignment="Center"
+                         Width="15" 
+                         Height="20">
+                    <Button Command="{Binding ClickCloud}"
+                            CommandParameter="{Binding}">
+                        <Image Source="/Resources/cloud2.png" 
+                               Height="40" 
+                               Width="60"/>
+                    </Button>
+                    <Button Command="{Binding ClickHeart}"
+                            CommandParameter="{Binding}">
+                        <Image Source="/Resources/heart4.png"
+                               Height="40"
+                               Width="60"/>
+                    </Button>
+                </ToolBar>
+                <TextBox Text="{Binding Text, UpdateSourceTrigger=LostFocus}"  
+                         Grid.Row="1"
+                         Grid.Column="0"
+                         Grid.ColumnSpan="3"
+                         Padding="10,0,10,10"
+                         FontSize="16"                          
+                         Background="{x:Null}" 
+                         BorderThickness="0"
+                         TextWrapping="Wrap" 
+                         AcceptsReturn="True"
+                         AcceptsTab="True"/>
+            </Grid>
+        </Border>
+    </Grid>
+</Window>

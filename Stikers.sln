@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stikers", "Stikers\Stikers.csproj", "{413C744F-2BDF-4819-9718-7655AC0AA85C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibForStikersDB", "LibForStikersDB\LibForStikersDB.csproj", "{2990674D-9528-4C32-9C50-6ECF10E196F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{413C744F-2BDF-4819-9718-7655AC0AA85C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{413C744F-2BDF-4819-9718-7655AC0AA85C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{413C744F-2BDF-4819-9718-7655AC0AA85C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{413C744F-2BDF-4819-9718-7655AC0AA85C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2990674D-9528-4C32-9C50-6ECF10E196F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2990674D-9528-4C32-9C50-6ECF10E196F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2990674D-9528-4C32-9C50-6ECF10E196F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2990674D-9528-4C32-9C50-6ECF10E196F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
